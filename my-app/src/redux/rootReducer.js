@@ -7,4 +7,5 @@ const rootReducer = combineReducers({
     iceCream: iceCreamReducer
 })
 console.log("this is develope branch");
+console.log("i am in develop");
 export default rootReducer
