@@ -6,5 +6,5 @@ const rootReducer = combineReducers({
     cake: cakeReducer,
     iceCream: iceCreamReducer
 })
-
+console.log("this is develope branch");
 export default rootReducer
