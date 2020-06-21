@@ -1,0 +1,32 @@
+[
+    {
+        "Brandname":"Cello",
+        "productname":"pen",
+        "Quantity":1,
+        "Price" : 498,
+        "MRP":498,
+        "imageURL" : "https://images.app.goo.gl/V4MbaNHA74NNSFkY6",
+        "OfferText" : "18"
+
+    },
+    {
+        "Brandname":"Ammul",
+        "productname":"Milk",
+        "Quantity":1,
+        "Price" : 460,
+        "MRP":439,
+        "imageURL" : "https://images.app.goo.gl/7GENFKC1MevRcw2f6",
+        "OfferText" : "21"
+
+    },
+    {
+        "Brandname":"Ammul",
+        "productname":"Milk",
+        "Quantity":1,
+        "Price" : 460,
+        "MRP":460,
+        "imageURL" : "https://images.app.goo.gl/J3Vnj4Z84UZfYRXUA",
+        "OfferText" : "No Offer"
+
+    }
+]
